@@ -26,7 +26,7 @@ fail ()
     ((tests++))
     ((fails++))
 }
-
+#hi
 
 # Test Task 1
 test="Task 1: password has been removed from the repository."
